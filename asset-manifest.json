@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IA04-JWT-Authentication-UI/static/css/main.34152d3d.css",
+    "main.js": "/IA04-JWT-Authentication-UI/static/js/main.328e240d.js",
+    "static/js/453.e9232d53.chunk.js": "/IA04-JWT-Authentication-UI/static/js/453.e9232d53.chunk.js",
+    "index.html": "/IA04-JWT-Authentication-UI/index.html",
+    "main.34152d3d.css.map": "/IA04-JWT-Authentication-UI/static/css/main.34152d3d.css.map",
+    "main.328e240d.js.map": "/IA04-JWT-Authentication-UI/static/js/main.328e240d.js.map",
+    "453.e9232d53.chunk.js.map": "/IA04-JWT-Authentication-UI/static/js/453.e9232d53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34152d3d.css",
+    "static/js/main.328e240d.js"
+  ]
+}
